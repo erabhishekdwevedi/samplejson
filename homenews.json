@@ -1,0 +1,398 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "Real Estate",
+    "last_updated": "2021-08-04T18:52:42-04:00",
+    "num_results": 29,
+    "results": [
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Recent Commercial Real Estate Transactions",
+            "abstract": "Recent commercial real estate transactions in New York.",
+            "url": "https://www.nytimes.com/2021/08/03/business/new-york-commercial-real-estate.html",
+            "uri": "nyt://article/0cba0213-813d-5883-8bed-b68e7a86f0df",
+            "byline": "By Kristen Bayrakdarian",
+            "item_type": "Article",
+            "updated_date": "2021-08-04T00:48:57-04:00",
+            "created_date": "2021-08-03T10:34:23-04:00",
+            "published_date": "2021-08-03T10:34:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Real Estate (Commercial)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Midtown Area (Manhattan, NY)",
+                "Bushwick (Brooklyn, NY)",
+                "Park Slope (Brooklyn, NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/27/business/27trans2/27trans2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 907,
+                    "width": 1043,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The building at 266 Wyckoff Avenue, left, and one at 242 Jefferson Street were sold together. ",
+                    "copyright": "Bestreich Realty Group"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/27/business/27trans2/27trans2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The building at 266 Wyckoff Avenue, left, and one at 242 Jefferson Street were sold together. ",
+                    "copyright": "Bestreich Realty Group"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/27/business/27trans2/27trans2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The building at 266 Wyckoff Avenue, left, and one at 242 Jefferson Street were sold together. ",
+                    "copyright": "Bestreich Realty Group"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/27/business/27trans2/27trans2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The building at 266 Wyckoff Avenue, left, and one at 242 Jefferson Street were sold together. ",
+                    "copyright": "Bestreich Realty Group"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/27/business/27trans2/27trans2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 165,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The building at 266 Wyckoff Avenue, left, and one at 242 Jefferson Street were sold together. ",
+                    "copyright": "Bestreich Realty Group"
+                }
+            ],
+            "short_url": "https://nyti.ms/3inkX7i"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "Homes for Sale in New York and Connecticut",
+            "abstract": "This week’s properties are five-bedroom homes in Northport, N.Y., and Fairfield, Conn.",
+            "url": "https://www.nytimes.com/2021/07/29/realestate/housing-market-near-nyc.html",
+            "uri": "nyt://article/446963af-a89a-5fe5-9bd4-5e62a06eec45",
+            "byline": "By Claudia Gryvatz Copquin and Lisa Prevost",
+            "item_type": "Article",
+            "updated_date": "2021-07-30T15:08:06-04:00",
+            "created_date": "2021-07-29T09:00:23-04:00",
+            "published_date": "2021-07-29T09:00:23-04:00",
+            "material_type_facet": "",
+            "kicker": "On the Market",
+            "des_facet": [
+                "Real Estate and Housing (Residential)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Northport (NY)",
+                "Fairfield (Conn)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/29/realestate/29otm-region-slide-OTRS/29otm-region-slide-OTRS-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Mikolai"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/29/realestate/29otm-region-slide-OTRS/29otm-region-slide-OTRS-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Mikolai"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/29/realestate/29otm-region-slide-OTRS/29otm-region-slide-OTRS-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Mikolai"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/29/realestate/29otm-region-slide-OTRS/29otm-region-slide-OTRS-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Mikolai"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/29/realestate/29otm-region-slide-OTRS/29otm-region-slide-OTRS-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Mikolai"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zOIK6k"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "House Hunting in El Salvador: A Compound on the Coast for $249,000",
+            "abstract": "Home prices are gradually recovering in the Central American nation, but are still low enough to lure droves of buyers to the beaches.",
+            "url": "https://www.nytimes.com/2021/07/28/realestate/housing-market-el-salvador-a-compound-on-the-coast-for-249000.html",
+            "uri": "nyt://article/a1848e2e-c2e1-5b23-9216-d9ce758e4abe",
+            "byline": "By Roxana Popescu",
+            "item_type": "Article",
+            "updated_date": "2021-07-30T15:44:36-04:00",
+            "created_date": "2021-07-28T09:30:18-04:00",
+            "published_date": "2021-07-28T09:30:18-04:00",
+            "material_type_facet": "",
+            "kicker": "International real estate",
+            "des_facet": [
+                "Real Estate and Housing (Residential)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "El Salvador",
+                "Central America"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28IHH-ElSalvbador-slide-7BWC/28IHH-ElSalvbador-slide-7BWC-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Above, the property, on a third of an acre, has two residences &mdash; one with two bedrooms and two bathrooms, and the other with the main bedroom suite.",
+                    "copyright": "Courtesy of Oceanside El Salvador"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28IHH-ElSalvbador-slide-7BWC/28IHH-ElSalvbador-slide-7BWC-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Above, the property, on a third of an acre, has two residences &mdash; one with two bedrooms and two bathrooms, and the other with the main bedroom suite.",
+                    "copyright": "Courtesy of Oceanside El Salvador"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28IHH-ElSalvbador-slide-7BWC/28IHH-ElSalvbador-slide-7BWC-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Above, the property, on a third of an acre, has two residences &mdash; one with two bedrooms and two bathrooms, and the other with the main bedroom suite.",
+                    "copyright": "Courtesy of Oceanside El Salvador"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28IHH-ElSalvbador-slide-7BWC/28IHH-ElSalvbador-slide-7BWC-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Above, the property, on a third of an acre, has two residences &mdash; one with two bedrooms and two bathrooms, and the other with the main bedroom suite.",
+                    "copyright": "Courtesy of Oceanside El Salvador"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28IHH-ElSalvbador-slide-7BWC/28IHH-ElSalvbador-slide-7BWC-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Above, the property, on a third of an acre, has two residences &mdash; one with two bedrooms and two bathrooms, and the other with the main bedroom suite.",
+                    "copyright": "Courtesy of Oceanside El Salvador"
+                }
+            ],
+            "short_url": "https://nyti.ms/3xbRotR"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "$3 Million Homes in Pennsylvania, Colorado and Washington",
+            "abstract": "A renovated 1840s farmhouse in Bucks County, an 1890 Victorian in Denver and an energy-efficient retreat on Lopez Island.",
+            "url": "https://www.nytimes.com/2021/07/28/realestate/home-prices-pennsylvania-colorado-and-washington.html",
+            "uri": "nyt://article/d4b9c73d-3d42-5529-9613-2922b0a9a8bb",
+            "byline": "By Julie Lasky",
+            "item_type": "Article",
+            "updated_date": "2021-07-28T12:49:54-04:00",
+            "created_date": "2021-07-28T09:00:22-04:00",
+            "published_date": "2021-07-28T09:00:22-04:00",
+            "material_type_facet": "",
+            "kicker": "What You Get",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Newtown (Pa)",
+                "Denver (Colo)",
+                "Lopez Island (Wash)",
+                "Bucks County (Pa)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/28/realestate/28WYG-slide-DU8A/28WYG-slide-DU8A-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "OM Media"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/28/realestate/28WYG-slide-DU8A/28WYG-slide-DU8A-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "OM Media"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/28/realestate/28WYG-slide-DU8A/28WYG-slide-DU8A-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "OM Media"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/28/realestate/28WYG-slide-DU8A/28WYG-slide-DU8A-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "OM Media"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/07/28/realestate/28WYG-slide-DU8A/28WYG-slide-DU8A-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "OM Media"
+                }
+            ],
+            "short_url": "https://nyti.ms/3x7WveA"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "Randolph, N.J.: ‘A True New Jersey Hidden Gem’",
+            "abstract": "Just 40 miles from Midtown, the Morris County township offers striking scenery, wilderness trails and housing that’s ‘great value for your money.’",
+            "url": "https://www.nytimes.com/2021/07/28/realestate/randolph-nj-a-true-new-jersey-hidden-gem.html",
+            "uri": "nyt://article/a52ddac2-017e-535a-8a60-df5e825c773a",
+            "byline": "By Kathleen Lynn",
+            "item_type": "Article",
+            "updated_date": "2021-07-30T15:50:51-04:00",
+            "created_date": "2021-07-28T05:00:19-04:00",
+            "published_date": "2021-07-28T05:00:19-04:00",
+            "material_type_facet": "",
+            "kicker": "Living in",
+            "des_facet": [
+                "Real Estate and Housing (Residential)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Randolph (NJ)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28LIVING-RANDOLPH-slide-M2KV/28LIVING-RANDOLPH-slide-M2KV-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tony Cenicola/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28LIVING-RANDOLPH-slide-M2KV/28LIVING-RANDOLPH-slide-M2KV-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tony Cenicola/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28LIVING-RANDOLPH-slide-M2KV/28LIVING-RANDOLPH-slide-M2KV-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tony Cenicola/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28LIVING-RANDOLPH-slide-M2KV/28LIVING-RANDOLPH-slide-M2KV-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tony Cenicola/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/08/01/realestate/28LIVING-RANDOLPH-slide-M2KV/28LIVING-RANDOLPH-slide-M2KV-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tony Cenicola/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3lioENR"
+        }
+    ]
+}
